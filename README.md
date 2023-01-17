@@ -10,3 +10,6 @@
 * Runge-Kutta method
 * Secant method
 * Taylor series method
+
+## Theoretical Background
+* Check <a href="https://github.com/ReemAlsharabi/Numerical_Analysis/blob/main/Math310%20final%20project%20report_Leen_Rayanah_Reem%20Spring2022.pdf">this report</a> for the theoretical background
